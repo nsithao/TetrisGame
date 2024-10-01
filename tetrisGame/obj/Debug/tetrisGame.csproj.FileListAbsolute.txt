@@ -1,0 +1,9 @@
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\bin\Debug\tetrisGame.exe.config
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\bin\Debug\tetrisGame.exe
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\bin\Debug\tetrisGame.pdb
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.Form1.resources
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.Properties.Resources.resources
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.csproj.GenerateResource.Cache
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.exe
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.pdb
+C:\=SiThao\TestArea\C-Sharp\tetrisGame\tetrisGame\obj\Debug\tetrisGame.csprojResolveAssemblyReference.cache
